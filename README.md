@@ -1,6 +1,6 @@
 # Food-Website
 
-- Responsive Website Using HTML, CSS, Bootstrap, and JavaScript.
+- Responsive Website Using HTML , CSS, and Tailwind.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
