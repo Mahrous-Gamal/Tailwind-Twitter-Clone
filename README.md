@@ -6,8 +6,7 @@
 
 ## [Website Demo]( https://mahrous-gamal.github.io/Tailwind-Twitter-Clone/)
 
-
-
+![X](https://github.com/Mahrous-Gamal/Tailwind-Twitter-Clone/assets/105131896/87e7b8a7-a7af-4cd9-8201-4ee7b662288e)
 
 
 ### Prerequisites
