@@ -1,4 +1,4 @@
-# Food-Website
+# Tailwind Twitter Clone
 
 - Responsive Website Using HTML , CSS, and Tailwind.
 - Developed first with the Mobile First methodology, then for desktop.
@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Food Website** locally, run this command on your git bash:
+To run **Tailwind Twitter Clon** locally, run this command on your git bash:
 
 Linux and macOS:
 
